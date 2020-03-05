@@ -12,3 +12,4 @@ function wrapAdjective(flare = "*") {
         return `You are ${flare}${params}${flare}!`
     }
 }
+
