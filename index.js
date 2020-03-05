@@ -1,4 +1,4 @@
 // Your code here
-function saturdayFun(activity="roller-skate"){
-  console.log(activity)
+function saturdayFun(activity){
+  console.log()
 }
