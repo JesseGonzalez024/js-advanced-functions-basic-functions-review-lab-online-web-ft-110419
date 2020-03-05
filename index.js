@@ -4,5 +4,5 @@ function saturdayFun(activity = "roller-skate") {
 }
 
 function mondayWork(activity = "go to the office"){
-  console.log(activity)
+  return `This Monday, I will ${activity}.`
 }
