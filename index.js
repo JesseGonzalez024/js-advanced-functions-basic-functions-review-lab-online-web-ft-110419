@@ -13,4 +13,4 @@ function wrapAdjective(flare = "*") {
     }
 }
 
-Calculator
+let Calculator
