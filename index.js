@@ -13,3 +13,4 @@ function wrapAdjective(flare = "*") {
     }
 }
 
+Calculator
