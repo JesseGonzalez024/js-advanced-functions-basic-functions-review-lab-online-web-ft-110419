@@ -21,3 +21,10 @@ let Calculator = {
     }
     
 
+function actionApplyer(integer, arr=[]) {
+    if (Array.isArray(arr) && arr.length ===0) {
+        return integer;
+    } else {
+        for (const i of arr) { integer = i(integer) } return integer }
+
+}
